@@ -1,0 +1,76 @@
+variable name,description,source
+UnitID,IPEDS ID,IPEDS
+Institution Name,,IPEDS
+city,,IPEDS
+ZIP code,,IPEDS
+State abbreviation,,IPEDS
+sector,"four or two year institution, public, nonprofit private or for-profit private",IPEDS
+HBCU,flag for Historically Black College or Universtity,IPEDS
+Tribal,Flag for tribal college,IPEDS
+religiously affliated,Flag for religiously affliated ,IPEDS
+NANTI,Flag for Native American non-tribal institution,College Scorecard
+PBI,Flag for predominantly black institution,College Scorecard
+RSI,Flag for rural serving institution,Alliance for Research on Regional Colleges
+HSI,Flag for Hispanic-serving institution,College Scorecard
+AANAPII,Flag for Asian American Native American Pacific Islander-serving institution,College Scorecard
+total_enrollment,total 12 month undergraduate enrollment,IPEDS
+male,12 month undergraduate male enrollment,IPEDS
+female,12 month undergraduate female enrollment,IPEDS
+full_time,12 month undergraduate full time students,IPEDS
+part_time,12 month undergraduate part time students,IPEDS
+under_25,Fall enrollment age under 25,IPEDS
+over_25,Fall enrollment age 25 and over,IPEDS
+percent_first_generation,share of first generation students ,College Scorecard
+AIAN_enrollment,12 month undergraduate American Indian or Alaska Native enrollment,IPEDS
+Asian_enrollment,12 month undergraduate Asian enrollment,IPEDS
+black_enrollment,12 month undergraduate Black enrollment,IPEDS
+Hispanic_enrollment,12 month undergraduate Hispanic enrollment,IPEDS
+NHPI_enrollment,12 month undergraduate Native Hawaiian or Other Pacific Islander enrollment,IPEDS
+White_enrollment,12 month undergraduate white enrollment,IPEDS
+two_or_more_ enrollment,12 month undergraduate two or more races enrollment,IPEDS
+unknown_enrollment,12 month undergraduate race/ethnicity unknown enrollment,IPEDS
+nonresident_alien_enrollment,12 month undergraduate nonresident enrollment,IPEDS
+percent_pell,share of undergraduates receiving a Pell grant,IPEDS
+ average_pell ,average Pell grant awarded,IPEDS
+percent_first_time_pell,share of undergraduates receiving a Pell grant for the first time,IPEDS
+ average_first_time_pell ,average Pell grant awarded to first-time recipient ,IPEDS
+total_faculty,total full-time instructional staff,IPEDS
+AIAN_faculty,full-time American Indian or Alaska Native instructional staff,IPEDS
+Asian_faculty,full-time Asian instructional staff,IPEDS
+Black_faculty,full-time Black instructional staff,IPEDS
+Hispanic_faculty,full-time Hispanic instructional staff,IPEDS
+NHPI_faculty,full-time Native Hawaiian or Other Pacific Islander instructional staff,IPEDS
+White_faculty,full-time White instructional staff,IPEDS
+two_or_more_races_faculty,full-time instructional staff of two or more races,IPEDS
+race_unknown_faculty,full-time race unkown instructional staff,IPEDS
+nonresident_faculty,full-time nonresident instructional staff,IPEDS
+overall_grad,Overall graduation rate (six years for bachelor's degree and three years for associate degree),IPEDS
+AIAN_grad,American Indian or Alaska Native graduation rate,IPEDS
+Asian_grad,Asian graduation rate,IPEDS
+Black_grad,Black graduation rate,IPEDS
+Hispanic_grad,Hispanic graduation rate,IPEDS
+NHPI_grad,Native Hawaiian or Other Pacific Islander graduation rate,IPEDS
+White_grad,white graduation rate,IPEDS
+Two_or_more_races_grad,two or more races graduation rate,IPEDS
+race_unknown_grad,race unknown graduation rate,IPEDS
+nonresident_grad,nonresident graduation rate,IPEDS
+vet_tuition_policies_url,website containing institution's policy for veterans,IPEDS
+vet_point_of_contact,Whether the institution has a point of contact for veterans,IPEDS
+vet_services_programs_not_avail,whether the institution does not have services for veterans available,IPEDS
+students_recieving_post911_benefits,number of students receiving post-911 GI benefits,IPEDS
+UGstudents_recieving_post911_benefits,number of undergraduates receiving post-911 GI benefits,IPEDS
+students_recieving_DOD_TA,number of students receiving Department of Defense Tuition Assistance,IPEDS
+Ugstudents_recieving_DOT_TA,number of undergraduates receiving Department of Defense Tuition Assistance,IPEDS
+percent_vet,share of veteran students,College Scorecard
+disability_services_url,website for institution's disability services,IPEDS
+percent_SWD,percent of students registered with the institution as having a disability ,IPEDS
+hate_crime_total,total hate crimes reported on campus in the last five years,US Department of Education Campus Safety and Security
+hate_crime_race,total race-based hate crimes reported in the last five years,US Department of Education Campus Safety and Security
+hate_crime_religion,total religion-based hate crimes reported in the last five years,US Department of Education Campus Safety and Security
+hate_crime_sex_orientation,total sexual orientation-based hate crimes reported in the last five years,US Department of Education Campus Safety and Security
+hate_crime_gender,total gender-based hate crimes in the last five years,US Department of Education Campus Safety and Security
+hate_crime_gender_identity,total gender identity-based hate crimes in the last five years,US Department of Education Campus Safety and Security
+hate_crime_disability,total disability-based hate crimes in the last five years,US Department of Education Campus Safety and Security
+hate_crime_ethnicity,total ethnicity/country of origin-based hate crimes in the last five years,US Department of Education Campus Safety and Security
+Speech_climate_rating,Speech climate rating ,Foundation for Individual Rights and Expression
+LGBTQ_resource,whether institution has a resource center for LGBTQ+ students,Consortium of Higher Education LGBT Resource Professionals.
